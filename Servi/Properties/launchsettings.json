@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Servi (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Servi (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
